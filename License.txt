@@ -4,3 +4,5 @@ master主分支内容
 分支内容-改变2
 
 dadsa
+
+stash
