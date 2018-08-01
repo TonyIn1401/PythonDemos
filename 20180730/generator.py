@@ -15,7 +15,7 @@ def flb(max):
 def generat2():
     g1 = flb(10)
     for item in g1:
-        print(item)    
+        print(item)
 
 
 generat1()

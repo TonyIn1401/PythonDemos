@@ -11,7 +11,7 @@ def qiepiandemo2():
     print(L[0:3])
     print(L[:3])
     print(L[-4:])
+    print(L[-1:5])
 
 qiepiandemo2()
 qiepiandemo()
-
