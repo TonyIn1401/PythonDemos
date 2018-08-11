@@ -59,8 +59,6 @@ def exer():
         print('测试成功!')
     else:
         print('测试失败!')
-
-    print("Test")
-
+        
 exer()
 pra()
